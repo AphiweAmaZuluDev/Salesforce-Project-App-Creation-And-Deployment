@@ -72,6 +72,10 @@ The application's successful deployment and access controls were verified using 
 
 | Test User Details | Result |
 | :--- | :--- |
+
 | **Test User Name** | New Test User |
 | **Assigned Profile** | Test User Profile |
 | **Access Verification** | User successfully logged in and was able to access the `Sales Dashboard` app via the App Launcher. All configured tabs and the custom Home Page loaded correctly. |
+
+
+<img width="1896" height="869" alt="Screenshot 2025-09-29 124321" src="https://github.com/user-attachments/assets/016e6ce5-f6b1-457e-9609-54693ccc42fc" />
